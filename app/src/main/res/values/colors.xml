@@ -13,4 +13,5 @@
     <color name="color_status_bar_blue">#1976D2</color>
 
     <color name="icon_color">#ffffff</color>
+    <color name="white">#ffffff</color>
 </resources>
